@@ -11,3 +11,7 @@
 
 
 	echo $c1->show() ." - ". $c2->show();
+
+
+
+	echo "<br/><br/> Veja o c&oacute;digo e entender&aacute;s melhor.";
